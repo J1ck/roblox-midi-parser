@@ -28,5 +28,5 @@ type MIDIData = {
 ## Docs
 |Button Name|Description|
 |--|--|
-|Import|Import a MIDI (.mid) file|
+|Import|Import a MIDI (.mid) file, inserts a ModuleScript and is structured like the MIDI Data Type listed above|
 |Convert|Converts a ModuleScript returned by importing a MIDI file to StringValue Instances|
