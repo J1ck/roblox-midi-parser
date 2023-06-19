@@ -4,7 +4,7 @@ Midi Parser Plugin for Roblox
 ## MIDI Data Type
 ```lua
 type MIDIData = {
-  Format : number,
+  	Format : number,
 	TimeBase : number,
 	Tempos : {
 		[number] : {
